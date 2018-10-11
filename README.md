@@ -1,1 +1,1 @@
-# fcc-backend-challenges-package-json
+# Backend Challenges boilerplate - package.json
